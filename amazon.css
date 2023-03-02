@@ -50,6 +50,7 @@
     margin: 20px;
     height: 120px;
     background-image: url(assest/bg-image.png);
+    background-size: 100%;
     text-align: center;
     color: #FFFFFF;
     padding: 2%;
